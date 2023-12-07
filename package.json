@@ -14,9 +14,6 @@
 	"categories": [
 		"Programming Languages"
 	],
-	"activationEvents": [
-		"onLanguage:bms"
-	],
 	"main": "./out/_main.js",
 	"contributes": {
 		"languages": [
@@ -59,10 +56,13 @@
 		"@types/mocha": "^5.2.6",
 		"@types/node": "^10.12.21",
 		"@types/vscode": "^1.36.0",
+		"@typescript-eslint/eslint-plugin": "^6.13.2",
+		"@typescript-eslint/parser": "^6.13.2",
+		"eslint": "^8.55.0",
 		"glob": "^7.1.4",
 		"mocha": "^6.1.4",
-		"typescript": "^3.3.1",
 		"tslint": "^5.12.1",
+		"typescript": "^3.3.1",
 		"vscode-test": "^1.0.2"
 	}
 }
