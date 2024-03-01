@@ -49,6 +49,7 @@
 	},
 	"dependencies": {
 		"strip-indent": "^3.0.0",
+		"vscode": "^1.1.37",
 		"vscode-nls": "^4.1.1"
 	},
 	"devDependencies": {
@@ -61,7 +62,6 @@
 		"eslint": "^8.55.0",
 		"glob": "^7.1.4",
 		"mocha": "^6.1.4",
-		"tslint": "^5.12.1",
 		"typescript": "^3.3.1",
 		"vscode-test": "^1.0.2"
 	}
