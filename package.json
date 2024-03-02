@@ -3,6 +3,11 @@
 	"displayName": "bms-language-support",
 	"description": "BMS (Be-Music Script) Support",
 	"publisher": "TakuyaNamba",
+	"vscode": {
+		"localization": {
+		  "en": "./src/i18n/en.json"
+		}
+	  },
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/kju8/bms-language-support.git"
